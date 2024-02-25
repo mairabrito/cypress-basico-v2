@@ -1,4 +1,4 @@
-# Testes automatizados com Cypress - Básico - TESTE
+# Testes automatizados com Cypress - Básico - TESTEE
 
 👋 Seja bem-vindo(a)!
 
